@@ -39,9 +39,7 @@ Shows a list of all text files with a “Create New File” option.
 ### 2️⃣ Edit Page  
 Allows renaming an existing file.
 
-![Edit Page](editfeature.png)
-
-> *Save these images as* `screenshots/home-page.png` *and* `screenshots/edit-page.png` *inside a* `screenshots/` *folder at the project root, or update the paths if you use different filenames.*
+![Edit Page](edit feature.png)
 
 ---
 
