@@ -39,15 +39,6 @@ Shows a list of all text files with a “Create New File” option.
 ### 2️⃣ Edit Page  
 Allows renaming an existing file.
 
-![Edit Page](edit feature.png)
+![Edit Page](editfeature.png)
 
 ---
-
-## 📂 Project Structure
-
-├── public/ # Static assets (Tailwind output.css, images, etc.)
-├── screenshots/ # <-- place your screenshot images here
-├── views/ # EJS templates: index.ejs, show.ejs, edit.ejs
-├── files/ # Text files created by the app
-├── server.js # Main Express server
-└── package.json
